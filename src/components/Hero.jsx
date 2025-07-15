@@ -35,7 +35,7 @@ function Hero() {
         {/* Info Box */}
         <div className="bg-white bg-opacity-5 backdrop-blur-sm p-6 rounded-2xl shadow-lg max-w-[800px] mx-auto text-white">
           <p className="text-lg">
-            I'm a Python Full Stack Developer with experience building secure, scalable, and high-performance web applications. I work with Django and Flask for backend development, and use React.js to build fast, responsive user interfaces. I also design and work with RESTful APIs, connecting frontend and backend into smooth, full-featured applications. I have practical experience in deploying applications and managing cloud infrastructure with Microsoft Azure. I focus on building reliable systems that are ready for real-world use and easy to scale.
+            I’m a Data Engineer passionate about turning raw data into trusted, actionable insights. With experience in building scalable data pipelines, designing robust data models, and optimizing data workflows using Azure (Data Factory, Synapse, Databricks, and more), I help businesses unlock the full potential of their data. I’m skilled in SQL, Python, Spark, and cloud architecture and I focus on creating secure, efficient, and reliable data solutions that scale with business needs.I enjoy mentoring, collaborating with cross-functional teams, and constantly learning to stay ahead in the fast-evolving data space.
           </p>
         </div>
       </div>

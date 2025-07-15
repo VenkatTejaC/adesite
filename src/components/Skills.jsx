@@ -3,10 +3,6 @@ import React from 'react';
 function Skills() {
   const skills = [
     { name: "Python", image: "/images/skills/python.png" },
-    { name: "Django", image: "/images/skills/dj.jpeg" },
-    { name: "Flask", image: "/images/skills/flask.png" },
-    { name: "REST API", image: "/images/skills/restapi.png" },
-    { name: "FastAPI", image: "/images/skills/fastapi.png" },
     { name: "SQL", image: "/images/skills/sql.png" },
     { name: "PostgreSQL", image: "/images/skills/PostgreSQL.png" },
     { name: "HTML5", image: "/images/skills/html.png" },
