@@ -35,7 +35,7 @@ function Hero() {
 
       {/* Fixed Navbar */}
       <div className="fixed top-0 left-0 w-full flex justify-between items-center p-4 bg-black bg-opacity-50 text-white z-50">
-        <a href="/" className="no-underline text-3xl font-bold hover:text-blue-400">Tej C</a>
+        <a href="/" className="no-underline text-3xl font-bold hover:text-blue-400">Teja C</a>
         <nav className="space-x-6">
           <a href="/" className="no-underline hover:text-blue-400 font-bold">Home</a>
           <a href="/about-details.html" className="no-underline hover:text-blue-400 font-bold">About Me</a>
