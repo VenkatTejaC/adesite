@@ -7,7 +7,10 @@ import { Autoplay } from 'swiper/modules';
 function Hero() {
   const images = [
     '/images/skills/ade.png',
-    '/images/skills/DEcert.png',
+    '/images/slider/azure_services.webp',
+    '/images/slider/DEcert.png',
+    '/images/slider/azure_logo.webp', 
+
   ];
 
   return (
@@ -31,7 +34,7 @@ function Hero() {
       </Swiper>
 
       {/* Dark Overlay */}
-      <div className="absolute inset-0 bg-black opacity-80 z-10"></div>
+      <div className="absolute inset-0 bg-black opacity-55 z-10"></div>
 
       {/* Fixed Navbar */}
       <div className="fixed top-0 left-0 w-full flex justify-between items-center p-4 bg-black bg-opacity-50 text-white z-50">
