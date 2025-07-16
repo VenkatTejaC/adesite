@@ -22,7 +22,7 @@ function About() {
         </h2>
 
         <p>
-          I am a passionate Python Developer with over 4 years of experience in web applications, REST APIs, ETL pipelines, and cloud deployment using Azure. I enjoy solving problems and delivering scalable solutions.
+          I’m a Data Engineer passionate about turning raw data into trusted, actionable insights. With experience in building scalable data pipelines, designing robust data models, and optimizing data workflows using Azure (Data Factory, DataLake Storage, Databricks, Synapse), I help businesses unlock the full potential of their data. I’m skilled in SQL, Python, Spark, and cloud architecture and I focus on creating secure, efficient, and reliable data solutions. I enjoy mentoring, collaborating with cross-functional teams, and constantly learning to stay ahead in the fast-evolving data space.
         </p>
       </div>
     </section>

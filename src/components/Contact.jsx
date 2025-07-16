@@ -60,7 +60,7 @@ function Contact() {
           </div>
 
           <div className="flex items-center space-x-3">
-            <h2 className="text-3xl font-bold mb-4">Via Mail</h2><br />
+            <h2 className="text-3xl font-bold mb-4">Via E-Mail</h2><br />
             <FaEnvelope />
             <a href="mailto:teja9509@gmail.com" className="font-bold hover:text-blue-400">teja9509@gmail.com</a>
           </div>
